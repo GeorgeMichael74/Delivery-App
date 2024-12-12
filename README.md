@@ -12,10 +12,11 @@ This project was bootstrapped with React App using Vite and for Animation using 
 # Available scripts
 
 In the project directory, you can run:
-#Frontend:
+## Frontend:
 ####npm run dev
-
+## Backend:
 ### npm run dev
+## Admin:
 
 Run the app in development mode.
 
